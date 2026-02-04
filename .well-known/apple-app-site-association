@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "9Q3PPZAJKC.com.valetax"
+        ],
+        "components": [
+          {
+            "/": "/reset",
+            "comment": "Matches any URL with a path that starts with /help/ and that has a query item with name 'articleNumber' and a value of exactly four characters."
+          }
+        ]
+      }
+    ]
+  }
+}
