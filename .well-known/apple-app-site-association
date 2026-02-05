@@ -7,8 +7,7 @@
         ],
         "components": [
           {
-            "/": "/reset",
-            "?": { "token": "*" },
+            "/": "/guest/recovery-password/",
             "comment": "test"
           }
         ]
