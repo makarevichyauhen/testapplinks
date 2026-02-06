@@ -3,7 +3,7 @@
     "details": [
       {
         "appIDs": ["9Q3PPZAJKC.com.valetax"],
-        "paths": ["*"]
+        "paths": ["/guest/recovery-password/"]
       }
     ]
   }
