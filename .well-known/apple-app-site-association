@@ -2,15 +2,8 @@
   "applinks": {
     "details": [
       {
-        "appIDs": [
-          "9Q3PPZAJKC.com.valetax"
-        ],
-        "components": [
-          {
-            "/": "*",
-            "comment": "test"
-          }
-        ]
+        "appIDs": ["9Q3PPZAJKC.com.valetax"],
+        "paths": ["*"]
       }
     ]
   }
