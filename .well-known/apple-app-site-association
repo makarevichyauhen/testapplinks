@@ -7,7 +7,7 @@
         ],
         "components": [
           {
-            "/": "/guest/recovery-password/",
+            "/": "*",
             "comment": "test"
           }
         ]
