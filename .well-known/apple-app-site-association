@@ -1,14 +1,10 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
-        "appIDs": ["9Q3PPZAJKC.com.valetax"],
-        "components": [
-           {
-                  "/": "*",
-                  "comment": "Matches any URL with a path that starts with /guest/recovery-password/."
-           }
-        ]
+        "appID": "9Q3PPZAJKC.com.valetax",
+        "paths": ["*"]
       }
     ]
   }
