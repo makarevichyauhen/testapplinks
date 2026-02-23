@@ -7,7 +7,7 @@
            {
                   "/": "/guest/recovery-password/*",
                   "comment": "Matches any URL with a path that starts with /guest/recovery-password/."
-           },
+           }
         ]
       }
     ]
